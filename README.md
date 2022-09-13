@@ -2,7 +2,7 @@
   <a href="https://github.com/reitermarkus/automerge/actions"><img alt="automerge build-test status" src="https://github.com/reitermarkus/automerge/workflows/build-test/badge.svg"></a>
 </p>
 
-# Automerge Action
+# Automerge Action - fork for tests
 
 This action automatically enables “auto-merge” for pull requests under the following conditions:
 
