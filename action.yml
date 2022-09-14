@@ -1,4 +1,4 @@
-name: Auto-Merge Pull Request
+name: Auto-Merge AW Test
 description: >
   Automatically merge pull requests once they are approved and
   required status checks are passing.
